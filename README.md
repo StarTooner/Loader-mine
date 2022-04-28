@@ -40,4 +40,4 @@ set these env vars
 
 
 
-https://heroku.com/deploy?template=https://github.com/ImDenuwan/String-Session-Genarator-Bot
+https://heroku.com/deploy?template=https://github.com/StarTooner/Loader-mine
