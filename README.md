@@ -29,7 +29,7 @@ Also, you can check [custom plugins repo](https://github.com/UsergeTeam/Custom-P
 
 set these env vars
 
-* `CORE_REPO` - repo url (default | https://github.com/UsergeTeam/Userge)
+* `CORE_REPO` - repo url (default | https://github.com/StarTooner/Loader-mine)
 * `CORE_BRANCH` - branch name (default | master)
 
 ## [Docker Guide](https://github.com/UsergeTeam/Loader/blob/master/Docker.md)
