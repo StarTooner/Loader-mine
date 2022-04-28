@@ -33,3 +33,11 @@ set these env vars
 * `CORE_BRANCH` - branch name (default | master)
 
 ## [Docker Guide](https://github.com/UsergeTeam/Loader/blob/master/Docker.md)
+
+
+
+##Deploy
+
+
+
+https://heroku.com/deploy?template=https://github.com/ImDenuwan/String-Session-Genarator-Bot
